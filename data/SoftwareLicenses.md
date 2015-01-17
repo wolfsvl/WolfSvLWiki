@@ -7,3 +7,4 @@
     * [BSD]
     * [MIT]
     * [MPL]
+    * [EPL]
