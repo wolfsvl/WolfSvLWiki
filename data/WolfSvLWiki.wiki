@@ -1,0 +1,6 @@
+﻿++ WolfSvL Wiki
+
+[//SoftwareLicenses]
+
+	* WikiSettings
+
